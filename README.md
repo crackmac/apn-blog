@@ -1,2 +1,2 @@
-# apn-blog
-APN Blog article code and configurations. 
+# terraform demo
+https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/
